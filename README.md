@@ -95,5 +95,4 @@ This Data set was gotten from Maven Analytics
 ### Limitations
   I had to remove the transaction date column using excel because the date format was not compatible with postgreSQL.
   
-### Improvement
-I'd appreciate any suggestions or improvement on this project. Contact me at tarijoel20@gmail.com. Thank you
+
