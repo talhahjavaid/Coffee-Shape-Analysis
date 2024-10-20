@@ -4,6 +4,7 @@
 ---
 This analysis of coffee sales data aims to understand the customer preferences, sales trends, and revenue generation. By examining these transaction records, I seek to uncover valuable insights in order to enhance customer satisfaction, 
 and improve business growth.
+![image](https://github.com/TariJoelAnalyst/Coffee-Sales-Project/assets/133088878/f6453c8b-fe44-4e0f-973c-dd209cba3e09)
 
 ### Data Source
 This Data set was gotten from Maven Analytics
